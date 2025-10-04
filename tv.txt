@@ -1,0 +1,10 @@
+CCTV-5 体育,https://tv.cctv.com/live/cctv5/
+CCTV-5+ 体育赛事,https://tv.cctv.com/live/cctv5plus/
+广东卫视,https://www.gdtv.cn/tvChannelDetail/43
+广东珠江,https://www.gdtv.cn/tvChannelDetail/44
+广东新闻,https://www.gdtv.cn/tvChannelDetail/45
+广东民生,https://www.gdtv.cn/tvChannelDetail/48
+广东体育,https://www.gdtv.cn/tvChannelDetail/47
+大湾区卫视,https://www.gdtv.cn/tvChannelDetail/51
+深圳卫视,https://www.sztv.com.cn/pindao/index.html?id=7867
+深圳都市,https://www.sztv.com.cn/pindao/index.html?id=7868
